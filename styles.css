@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+/* Styling for the questions */
+.questions {
+    background-color: #f8fffe; /* Light background */
+    height: 50px; /* Fixed height */
+    margin-top: 20px; /* Space above each question */
+    padding: 15px; /* Inner padding */
+    max-width: 600px; /* Maximum width */
+    border-left: 8px solid green; /* Green left border */
+    font-family: Arial, sans-serif; /* Optional font style */
+    line-height: 1.5; /* Improve text readability */
+}
